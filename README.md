@@ -5,6 +5,12 @@
 
 + https://javabrains.io/courses/hibernate_intro
 
++ https://en.wikibooks.org/wiki/Java_Persistence/OneToMany
+
++ [In a bidirectional JPA OneToMany/ManyToOne association, what is meant by “the inverse side of the association”?](http://stackoverflow.com/questions/2584521/in-a-bidirectional-jpa-onetomany-manytoone-association-what-is-meant-by-the-in)
+
++ [JPA 2 Tutorial – Relationships – Many To Many](http://blog.jbaysolutions.com/2012/12/17/jpa-2-relationships-many-to-many/)
+
 
 ##### Interview Question
 
