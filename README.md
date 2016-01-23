@@ -11,6 +11,10 @@
 
 + [JPA 2 Tutorial – Relationships – Many To Many](http://blog.jbaysolutions.com/2012/12/17/jpa-2-relationships-many-to-many/)
 
++ [Hibernate Named Query Example](http://examples.javacodegeeks.com/enterprise-java/hibernate/hibernate-named-query-example/)
+
++ [How to call stored procedure in Hibernate](http://www.mkyong.com/hibernate/how-to-call-store-procedure-in-hibernate/)
+
 
 ##### Interview Question
 
@@ -21,3 +25,17 @@
 + [10 Hibernate Interview Questions and Answers for Java J2EE Programmers](http://javarevisited.blogspot.in/2013/05/10-hibernate-interview-questions-answers-java-j2ee-senior.html)
 
 + [Hibernate Interview Questions](http://www.javagyan.com/preparing-for-an-interview/hibernate-interview-questions)
+
++ [What's the advantage of persist() vs save() in Hibernate?](http://stackoverflow.com/questions/5862680/whats-the-advantage-of-persist-vs-save-in-hibernate)
+
+
+## Spring
+---
+
+##### Tutorial
+
++ [Bean Scope](http://www.tutorialspoint.com/spring/spring_bean_scopes.htm)
+
++ http://www.mkyong.com/spring/spring-auto-wiring-beans-in-xml/
+
++ http://www.mkyong.com/spring/spring-auto-wiring-beans-with-autowired-annotation/
