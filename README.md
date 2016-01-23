@@ -29,7 +29,7 @@
 + [What's the advantage of persist() vs save() in Hibernate?](http://stackoverflow.com/questions/5862680/whats-the-advantage-of-persist-vs-save-in-hibernate)
 
 
-## Spring
+### Spring
 ---
 
 ##### Tutorial
@@ -39,3 +39,7 @@
 + http://www.mkyong.com/spring/spring-auto-wiring-beans-in-xml/
 
 + http://www.mkyong.com/spring/spring-auto-wiring-beans-with-autowired-annotation/
+
+##### Interview Question
+
++ [Top Spring Core Interview Questions with Answers](http://howtodoinjava.com/2015/02/26/top-spring-core-interview-questions-with-answers/)
