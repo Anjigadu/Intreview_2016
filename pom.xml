@@ -5,7 +5,7 @@
 	<groupId>freelance.poc</groupId>
 	<artifactId>freelance.poc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>freelance.poc</name>
 	<url>http://maven.apache.org</url>
@@ -21,6 +21,16 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
+
+		<!-- Struts Integration [START] -->
+
+		<dependency>
+			<groupId>org.apache.struts</groupId>
+			<artifactId>struts2-core</artifactId>
+			<version>2.3.1.2</version>
+		</dependency>
+
+		<!-- Struts Integration [END] -->
 
 		<!-- Hibernate Integration [START] -->
 
