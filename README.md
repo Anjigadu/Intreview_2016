@@ -18,6 +18,8 @@
 
 ##### Interview Question
 
++ [SaveOrUpdate versus Merge in Hibernate](http://www.stevideter.com/2008/12/07/saveorupdate-versus-merge-in-hibernate/)
+
 + [Hibernate Session get() vs load() difference with examples](http://www.journaldev.com/3472/hibernate-session-get-vs-load-difference-with-examples)
 
 + [Hibernate Interview Questions and Answers](http://www.journaldev.com/3633/hibernate-interview-questions-and-answers)
