@@ -11,6 +11,7 @@
 
 + [Hibernate Inheritance Joined Strategy Example](http://www.javaroots.com/2013/07/hibernate-inheritance-joined-strategy.html)
 
++ [JPA Gotchas and Best Practices: Lessons from Overstock.com](https://www.youtube.com/watch?v=XGiKJzZWnCA)
 
 ##### Book
 
