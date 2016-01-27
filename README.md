@@ -3,6 +3,8 @@
 
 ##### Tutorial
 
++ [Essential object-relational mapping in JPA](https://nikojava.wordpress.com/2011/08/04/essential-jpa-relationships/)
+
 + https://javabrains.io/courses/hibernate_intro
 
 + https://en.wikibooks.org/wiki/Java_Persistence/OneToMany
