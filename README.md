@@ -34,9 +34,7 @@
 
 + [Bean Scope](http://www.tutorialspoint.com/spring/spring_bean_scopes.htm)
 
-+ http://www.mkyong.com/spring/spring-auto-wiring-beans-in-xml/
-
-+ http://www.mkyong.com/spring/spring-auto-wiring-beans-with-autowired-annotation/
++ [Spring beans autowiring concepts](http://howtodoinjava.com/spring/spring-core/spring-beans-autowiring-concepts/) 
 
 ##### Interview Question
 
