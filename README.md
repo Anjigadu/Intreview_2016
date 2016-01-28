@@ -40,7 +40,11 @@
 
 + [Top Spring Core Interview Questions with Answers](http://howtodoinjava.com/2015/02/26/top-spring-core-interview-questions-with-answers/)
 
+##### Book
 
++ [Spring in Action](http://www.amazon.in/Spring-Action-Craig-Walls/dp/161729120X?tag=googinhydr18418-21)
+
++ [Expert Spring MVC and Web Flow](http://www.amazon.com/Expert-Spring-Flow-Experts-Voice/dp/159059584X)
 
 ### Struts
 ---
