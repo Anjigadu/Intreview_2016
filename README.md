@@ -3,6 +3,8 @@
 
 ##### Tutorial
 
++ [How to map a composite key with Hibernate?](http://stackoverflow.com/questions/3585034/how-to-map-a-composite-key-with-hibernate)
+
 + [Essential object-relational mapping in JPA](https://nikojava.wordpress.com/2011/08/04/essential-jpa-relationships/)
 
 + [Hibernate - Java Brains](https://javabrains.io/courses?topic=hibernate)
