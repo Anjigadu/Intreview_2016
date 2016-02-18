@@ -1,3 +1,24 @@
+### Core Java Interview Questions
+---
+1) Difference between HashSet, TreeSet, and LinkedHashSet?
+
+2) What's the difference between ConcurrentHashMap and Collections.synchronizedMap(Map)?
+
+3) what is fail-safe & fail-fast Iterators in java & how they are implemented?
+
+4) Difference between equals() and hashCode()?
+
+5) How to Use the Java Collections Sort Method?
+
+6) Difference between HashMap, LinkedHashMap and TreeMap?
+
+7) What is BlockingQueue?
+
+8) [JVM and Garbage Collection Interview Questions: The Beginners Guide](https://dzone.com/articles/jvm-and-garbage-collection)
+
+
+
+
 ### Hibernate
 ---
 
