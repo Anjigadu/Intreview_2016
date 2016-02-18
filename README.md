@@ -18,20 +18,34 @@
 
 9.  Difference between StringBuilder and StringBuffer?  
 
-10.  Threading interview - 1
+10.  [Threading interview Questoins](https://dzone.com/articles/threads-top-80-interview)
 
 ``` java
 package com.sample;
 
 /*
  * 1) How to create thread (Runnable/extend thread)
+ * 
  * 2) How to send interrupt message(interrupt)
+ * 
  * 3) Get thread name, completion status of thread(isActive), and wait for current thread to complete (join)
+ * 
  * 4) Get current thread name
+ * 
+ * 5) When do I need to call this method Runtime.getRuntime().addShutdownHook()
+			http://stackoverflow.com/questions/8722826/when-do-i-need-to-call-this-method-runtime-getruntime-addshutdownhook
+			
  */
 public class Thread1 {
 
 	public static void main(String... strings) throws InterruptedException {
+		
+
+		 Runtime.getRuntime().addShutdownHook(new Thread() {
+		      public void run() {
+		        System.out.println("Running Shutdown Hook");
+		      }
+		    });
 		System.out.println("Main :- " + Thread.currentThread().getName());
 		DemoT demoT = new DemoT();
 		Thread thread = new Thread(demoT);
@@ -62,9 +76,6 @@ class DemoT implements Runnable {
 	}
 	
 }
-
-
-
 
 ```
 
