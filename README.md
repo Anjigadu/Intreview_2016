@@ -18,7 +18,55 @@
 
 9.  Difference between StringBuilder and StringBuffer?  
 
+10.  Threading interview - 1
 
+``` java
+package com.sample;
+
+/*
+ * 1) How to create thread (Runnable/extend thread)
+ * 2) How to send interrupt message(interrupt)
+ * 3) Get thread name, completion status of thread(isActive), and wait for current thread to complete (join)
+ * 4) Get current thread name
+ */
+public class Thread1 {
+
+	public static void main(String... strings) throws InterruptedException {
+		System.out.println("Main :- " + Thread.currentThread().getName());
+		DemoT demoT = new DemoT();
+		Thread thread = new Thread(demoT);
+		System.out.println("Main :- " + Thread.currentThread().getName());
+		System.out.println("Main1 :- " + thread.isAlive());
+
+		thread.start();
+
+		System.out.println("Main2 :- " + thread.isAlive());
+
+		thread.interrupt();
+		System.out.println("Main21 :- " + thread.isAlive());
+		
+	}
+}
+
+
+class DemoT implements Runnable {
+
+	@Override
+	public void run() {
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			System.out.println("Interrupted Thread!!!!!");
+		}
+		System.out.println(Thread.currentThread().getName());
+	}
+	
+}
+
+
+
+
+```
 
 ### Hibernate
 ---
