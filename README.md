@@ -1,3 +1,15 @@
+### Multithreading
+---
+
+1.  [JDK IO 2014 - Java Concurrency and Non blocking IO - Dr Heinz M. Kabutz](https://www.youtube.com/watch?v=vkjNjZiMt4w
+)
+
+2.  [Finding Subtle but Common Concurrency Issues in Java Programs](https://www.youtube.com/watch?v=Oi6-pXX11qw
+)
+
+3.  [Modern Java Concurrency - by Martijn Verburg & Ben Evans at JAX London Nov 2011](https://www.youtube.com/watch?v=qrCUy9H76IA)
+
+
 ### Core Java Interview Questions
 ---
 1.  Difference between HashSet, TreeSet, and LinkedHashSet?
