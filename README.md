@@ -18,7 +18,9 @@
 
 9.  Difference between StringBuilder and StringBuffer?  
 
-10.  [Threading interview Questoins](https://dzone.com/articles/threads-top-80-interview)
+10.  What is the difference between a soft reference and a weak reference in Java?
+
+11.  [Threading interview Questoins](https://dzone.com/articles/threads-top-80-interview)
 
 ``` java
 package com.sample;
