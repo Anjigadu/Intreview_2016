@@ -11,6 +11,8 @@
 
 4.  [What is CountDownLatch in Java - Concurrency Example Tutorial](http://javarevisited.blogspot.in/2012/07/countdownlatch-example-in-java.html)
 
+5.  [JSR-166: Concurrency Utilities](http://gee.cs.oswego.edu/dl/concurrency-interest/jsr166-slides.pdf)  
+
 
 ### Core Java Interview Questions
 ---
