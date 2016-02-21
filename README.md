@@ -9,6 +9,8 @@
 
 3.  [Modern Java Concurrency - by Martijn Verburg & Ben Evans at JAX London Nov 2011](https://www.youtube.com/watch?v=qrCUy9H76IA)
 
+4.  [What is CountDownLatch in Java - Concurrency Example Tutorial](http://javarevisited.blogspot.in/2012/07/countdownlatch-example-in-java.html)
+
 
 ### Core Java Interview Questions
 ---
