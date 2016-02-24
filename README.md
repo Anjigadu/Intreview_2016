@@ -38,7 +38,17 @@
 
 10.  What is the difference between a soft reference and a weak reference in Java?
 
-11.  [Threading interview Questoins](https://dzone.com/articles/threads-top-80-interview)
+11.  Write code to find the max depth of a binary tree
+
+12.  wait(), notify()
+
+13.  in public static main() call object.wait() what happens?
+
+14. what is the complexity of binary tree max depth
+
+15. inner class vs static inner class (this guy can ask anything, annoymous inner class etc- be careful)
+
+16.  [Threading interview Questoins](https://dzone.com/articles/threads-top-80-interview)
 
 ``` java
 package com.sample;
