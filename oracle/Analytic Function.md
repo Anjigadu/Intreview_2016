@@ -118,9 +118,11 @@ COMMIT;
 select product_id,
        year,
        price,
-       lag(Price,1,99999999999999999999) over(partition by product_id order by price desc) previosu_price,
+       lag(Price,1,99999999999999999999) 
+       over(partition by product_id order by price desc) previosu_price,
        case 
-          when lag(Price,1,99999999999999999999) over(partition by product_id order by price desc)> price then 1
+          when lag(Price,1,99999999999999999999) 
+          over(partition by product_id order by price desc)> price then 1
           else 0
         end du
   from 
