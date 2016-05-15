@@ -20,7 +20,7 @@
 
 + [Java Persistence with Hibernate](http://www.amazon.in/Java-Persistence-Hibernate-Christian-Bauer/dp/1617290459?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=3005f0ab-89e4-4958-8694-b99c6e9ea25e)
 
-+ [Pro JPA 2: Mastering the Java(TM) Persistence API (Expert's Voice in Java Technology)](http://www.amazon.com/gp/product/1430219564/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687582&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=1430249269&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=0ETFY7M5BZ4SJJPN06A6)
++ [Pro JPA 2: Mastering the Java(TM) Persistence API (Expert's Voice in Java Technology)](http://www.amazon.com/gp/product/1430219564/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687582&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=1430249269&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=0ETFY7M5BZ4SJJPN06A6) [``download``](http://www.ktipsntricks.com/data/ebooks/java/Apress%20-%20Pro%20JPA%202%20Mastering%20the%20Java%20Persistence%20API%20(November%202009)%20(ATTiCA).pdf)
 
 
 ##### Interview Question
