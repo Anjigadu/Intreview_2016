@@ -12,6 +12,10 @@
 
 + [JPA Gotchas and Best Practices: Lessons from Overstock.com](https://www.youtube.com/watch?v=XGiKJzZWnCA)
 
++ [JPA 2.1 Tips, Tricks, and Examples](https://www.youtube.com/watch?v=GHTJ5L7iaiA)
+
++ [Devnexus 2015 - Java Persistence API by Jason Porter](https://www.youtube.com/watch?v=YRMS0-9h0i8) 
+
 ##### Book
 
 + [Java Persistence with Hibernate](http://www.amazon.in/Java-Persistence-Hibernate-Christian-Bauer/dp/1617290459?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=3005f0ab-89e4-4958-8694-b99c6e9ea25e)
