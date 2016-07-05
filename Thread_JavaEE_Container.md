@@ -20,3 +20,10 @@
 + [Rules of Thumb: Don't Use the Session](https://dzone.com/articles/rules-thumb-dont-use-session)
 
 + [4 Coherence*Web Session Management Features](https://docs.oracle.com/cd/E14526_01/coh.350/e14536/features.htm#COHCW215)
+
++ [Spring's WebUtils.getSessionMutex(javax.servlet.http.HttpSession) and HttpSessionMutexListener still relevant](http://stackoverflow.com/questions/8408049/springs-webutils-getsessionmutexjavax-servlet-http-httpsession-and-httpsessio)
+
+
+### Session Management Configuration in Weblogic
+
++ [Session Management Cheat Sheet](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet) 
