@@ -27,3 +27,9 @@
 ### Session Configuration in Weblogic
 
 + [Session Management Cheat Sheet](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet) 
+
++ [Managing WebLogic 11g Clusters](http://jianmingli.com/wp/?p=5392)
+
++ [web.xml Deployment Descriptor Elements](https://docs.oracle.com/cd/E24329_01/web.1211/e21049/web_xml.htm#WBAPP502)
+
++ [weblogic.xml Deployment Descriptor Elements](https://docs.oracle.com/cd/E24329_01/web.1211/e21049/weblogic_xml.htm#WBAPP571)
