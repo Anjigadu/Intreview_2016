@@ -33,3 +33,15 @@
 + [web.xml Deployment Descriptor Elements](https://docs.oracle.com/cd/E24329_01/web.1211/e21049/web_xml.htm#WBAPP502)
 
 + [weblogic.xml Deployment Descriptor Elements](https://docs.oracle.com/cd/E24329_01/web.1211/e21049/weblogic_xml.htm#WBAPP571)
+
+
+### ThreadLocal in Web Apps
+
+ + [A Painless Introduction to Java's ThreadLocal Storage](https://dzone.com/articles/painless-introduction-javas-threadlocal-storage)
+ 
+ + [The Beauties and Pitfalls of ThreadLocals](http://javasplitter.blogspot.in/2011/07/beauties-and-pitfalls-of-threadlocals.html)
+ 
+ + [ThreadLocal Memory Leak in Java web application - Tomcat](http://javarevisited.blogspot.in/2013/01/threadlocal-memory-leak-in-java-web.html)
+ 
+ + [Chapter 8: Mapped Diagnostic Context](http://logback.qos.ch/manual/mdc.html) 
+
