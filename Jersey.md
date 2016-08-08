@@ -12,3 +12,15 @@
 + [REST Best Practices: Managing Concurrent Updates](https://blog.4psa.com/rest-best-practices-managing-concurrent-updates/)
 
 + [Optimistic concurrency control in ASP.NET WebAPI](https://tudorturcu.wordpress.com/2012/04/30/optimistic-concurrency-control-asp-net-webapi-en/)
+
+#### Cache In REST:
+
++ [How To Optimize Your Site With HTTP Caching](https://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/)
+
++ [HTTP caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=en)
+
++ [HOW-TO: HTTP CACHING FOR RESTFUL & HYPERMEDIA APIS](http://www.apiacademy.co/how-to-http-caching-for-restful-hypermedia-apis/)
+
++ [HTTP Caching in Java with JAX-RS](https://devcenter.heroku.com/articles/jax-rs-http-caching)
+
++ [Increasing Application Performance with HTTP Cache Headers](https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers#conditional-requests)
